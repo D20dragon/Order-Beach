@@ -2,7 +2,7 @@
   "id": "order-beach",
   "title": "Order Beach",
   "version": "1.0.0",
-  \"manifest": "https://raw.githubusercontent.com/D20dragon/Order-Beach/refs/module.json",
+  "manifest": "https://raw.githubusercontent.com/D20dragon/Order-Beach/refs/module.json",
 "download": "https://github.com/D20dragon/Order-Beach/releases/download/1.0.0/order-beach.zip",
   "compatibility": {
     "minimum": "13",
