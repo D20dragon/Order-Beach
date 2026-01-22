@@ -1,0 +1,34 @@
+{
+  "id": "order-beach",
+  "title": "Order Beach",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "d20_dragon",
+      "url": "https://www.patreon.com/cw/d20_dragon",
+      "flags": {}
+    }
+  ],
+  "url": "https://www.patreon.com/cw/d20_dragon",
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "Order-Beach",
+      "label": "Order Beach",
+      "path": "packs/Order-Beach",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ],
+  "description": ""
+}
